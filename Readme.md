@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://zahid.portfoliobd.xyz/
+> https://portfoliobd.xyz/
 
 ## Features 📋
 ⚡️ Fully Responsive\
