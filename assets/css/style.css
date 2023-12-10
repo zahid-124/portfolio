@@ -774,7 +774,7 @@ section .container {
   position: relative;
   overflow: hidden;
   z-index: 1;
-  background: rgba(0, 0, 0, 0.6);
+  background: rgb(176, 245, 185);
 }
 
 .portfolio .portfolio-wrap::before {
@@ -1100,7 +1100,7 @@ section .container {
 /* Modifying CSS */
 .img-fluid-edu {
   background-color: white;
-  max-width: 100px;
-  height: 100%;
+  height: 150px;
+  padding: 5px;
 }
 
